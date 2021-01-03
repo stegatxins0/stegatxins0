@@ -1,4 +1,4 @@
-To be updated soon.
+> **Do One Thing and Do It Well** *-The Unix Philosophy*
 ```
  ____ _____ _____ ____    _  _______  _____ _   _ ____   ___
 / ___|_   _| ____/ ___|  / \|_   _\ \/ /_ _| \ | / ___| / _ \
