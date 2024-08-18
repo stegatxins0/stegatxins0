@@ -1,1 +1,8 @@
-Hello! I'm Jack, a student at ASASIpintar UKM (A pre university school) majoring in STEM. I'm the official webmaster for our school MUN conference, [GMUN](https://genmun.github.io/), and I've created a few programs to help me with my Japanese langauge learning journey. I love competitive programming, and also tinkering around with Linux.
+```
+ ____ _____ _____ ____    _  _______  _____ _   _ ____   ___
+/ ___|_   _| ____/ ___|  / \|_   _\ \/ /_ _| \ | / ___| / _ \
+\___ \ | | |  _|| |  _  / _ \ | |  \  / | ||  \| \___ \| | | |
+ ___) || | | |__| |_| |/ ___ \| |  /  \ | || |\  |___) | |_| |
+|____/ |_| |_____\____/_/   \_\_| /_/\_\___|_| \_|____/ \___/
+
+```
